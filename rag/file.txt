@@ -1,0 +1,6 @@
+As a Machine Learning Intern, I developed an American Sign Language (ASL) detection system using Convolutional Neural Networks (CNN).
+My responsibilities included collecting and preprocessing gesture image data, building and training deep learning models, optimizing performance using techniques like data augmentation and dropout, and evaluating model accuracy.
+I also gained hands-on experience in deploying computer vision models for real-world gesture recognition tasks.
+
+Machine learning intern at Unified Mentor with hands-on experience in LLMs, including fine-tuning and deploying NLP models. 
+Skilled in Python, PyTorch, and Transformers. Passionate about building real-world AI solutions with a focus on performance and usability.
