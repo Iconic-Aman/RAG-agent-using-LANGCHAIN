@@ -12,4 +12,7 @@ pypdf
 chromadb
 faiss-cpu
 tiktoken
+arxiv
+wikipedia
+langchainhub
 
